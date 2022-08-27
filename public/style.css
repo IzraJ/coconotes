@@ -1,0 +1,95 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 1.4rem;
+    color: #474a48;
+}
+
+
+h1 {
+    color: #eb9486;
+    font-size: 5rem;
+    
+}
+
+#taskX{
+    display:none;
+}
+
+.modal-content {
+    background: red;
+ }
+
+ .modal-content {
+    background: rgb(158, 241, 186);
+  }
+
+  body {
+      background: rgb(170, 239, 223);
+  }
+
+  .addTaskDiv {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    width: 50vw;
+    background: rgb(235, 148, 134);
+    box-shadow: 5px 10px 10px rgb(71, 74, 72);
+    border: solid .5px black;
+    padding: 1rem 2.5rem
+  }
+
+  .addTaskDiv input{
+      width: 20vw;
+  }
+
+  .main{
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: center;
+      align-content: center;
+  }
+
+  .tasks-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 50vw;
+    height: 20vh;
+    list-style-type: none;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+  .task-list{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-content: center;
+      align-items: center;
+      border: solid .5px black;
+      background: rgb(238, 233, 216);
+      padding: 1rem 2.5rem;
+      box-shadow: 5px 7px 10px rgb(71, 74, 72);
+  }
+
+  .icons{
+      width: 3vw;
+      display: flex;
+      align-content: center;
+      justify-content: space-between;
+      align-items:center;
+      
+  }
+
+
+
+  
