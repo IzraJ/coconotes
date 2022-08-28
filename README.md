@@ -10,7 +10,7 @@ This is a todo list that allows you to add, edit, and delete, notes that are sto
 
 **Tech used:** HTML, CSS, JavaScript, EJS, MongoDB
 
-This app uses CRUD operations to get, post, update, and delete. This app uses HTML, raw CSS with a boostrap modal and Javascript with a MongoDB database to store the data. This was my first CRUD app and it was really fun to make. The most difficult part was the update request. I used a boostrap modal for the pop up window. I was having trouble getting the right information to send to the database to make sure it was editing the correct "To Do". 
+This app uses CRUD operations to get, post, update, and delete. This app uses HTML, raw CSS with a boostrap modal and Javascript with a MongoDB database to store the data. This was my first CRUD app and it was really fun to make. The most difficult part was the update request. I used a bootstrap modal for the pop up edit window. I was having trouble getting the right information to send to the database to make sure it was editing the correct "To Do".
 
 ## Optimizations
 *(optional)*
